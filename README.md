@@ -1,4 +1,4 @@
-# NodeJs-MongoDB RestApi
+# Simple NodeJs-MongoDB rest api
 
 Required Node Modules
 1-Express
